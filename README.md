@@ -14,12 +14,12 @@ O Gefina registra os clientes de uma organização e as faturas emitidas contra 
 - Cadastro e manutenção de clientes
 - Emissão e manutenção de faturas
 - Listagens com busca, ordenação e paginação
-- Painel de indicadores consolidados
-- Acesso autenticado e administração de contas
+- Painel de indicadores consolidados.
+- Acesso autenticado e administração de contas.
 
 ## Fora do escopo
 
-- Cadastro público de usuários
-- Recuperação de senha
-- Envio de arquivo de imagem
-- Representação gráfica de séries temporais
+- Cadastro público de usuários.
+- Recuperação de senha.
+- Envio de arquivo de imagem.
+- Representação gráfica de séries temporais.
